@@ -1,0 +1,202 @@
+
+[
+    {
+        "id": "herramienta-01",
+        "titulo": "Destornillador Plano",
+        "imagen": "./assets/img/herramientas/destornillador2",
+        "categoria": {
+            "nombre": "Herramientas",
+            "id": "Herramientas"
+        },
+        "precio": 1750
+    },
+    {
+        "id": "herramienta-02",
+        "titulo": "Destornillador Phillips",
+        "imagen": "./assets/img/herramientas/destornillador1",
+        "categoria": {
+            "nombre": "Herramientas",
+            "id": "Herramientas"
+        },
+        "precio": 1750
+    },
+    {
+        "id": "herramienta-03",
+        "titulo": "Serrucho",
+        "imagen": "./assets/img/herramientas/serrucho",
+        "categoria": {
+            "nombre": "Herramientas",
+            "id": "Herramientas"
+        },
+        "precio": 2200
+    },
+    {
+        "id": "herramienta-04",
+        "titulo": "Juego de llaves",
+        "imagen": "./assets/img/herramientas/llaves",
+        "categoria": {
+            "nombre": "Herramientas",
+            "id": "Herramientas"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "herramienta-05",
+        "titulo": "Martillo",
+        "imagen": "./assets/img/herramientas/martillo",
+        "categoria": {
+            "nombre": "Herramientas",
+            "id": "Herramientas"
+        },
+        "precio": 2700
+    },
+    {
+        "id": "herramienta-06",
+        "titulo": "Kit de herramientas",
+        "imagen": "./img/herramientas/caja",
+        "categoria": {
+            "nombre": "Caja de herramientas",
+            "id": "Herramientas"
+        },
+        "precio": 9900
+    },
+
+
+
+
+
+    {
+        "id": "Maquina-01",
+        "titulo": "Agujereadora",
+        "imagen": "./assets/img/herramientas/agujereadora",
+        "categoria": {
+            "nombre": "Maquinas",
+            "id": "Maquinas"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "Maquina-02",
+        "titulo": "Percutora",
+        "imagen": "./assets/img/herramientas/percutora",
+        "categoria": {
+            "nombre": "Maquinas",
+            "id": "Maquinas"
+        },
+        "precio": 14200
+    },
+    {
+        "id": "Maquina-03",
+        "titulo": "Soldadora electrica",
+        "imagen": "./assets/img/herramientas/soldadora",
+        "categoria": {
+            "nombre": "Maquinas",
+            "id": "Maquinas"
+        },
+        "precio": 21000
+    },
+    {
+        "id": "Maquina-04",
+        "titulo": "Caladora",
+        "imagen": "./assets/img/herramientas/caladora",
+        "categoria": {
+            "nombre": "Maquinas",
+            "id": "Maquinas"
+        },
+        "precio": 13999
+    },
+    {
+        "id": "Maquina-05",
+        "titulo": "Moladora",
+        "imagen": "./assets/img/herramientas/moladora",
+        "categoria": {
+            "nombre": "Maquinas",
+            "id": "Maquinas"
+        },
+        "precio": 11000
+    },
+    {
+        "id": "Maquina-06",
+        "titulo": "Compresor de Aire",
+        "imagen": "./assets/img/herramientas/compresor",
+        "categoria": {
+            "nombre": "Maquinas",
+            "id": "Maquinas"
+        },
+        "precio": 17400
+    },
+    {
+        "id": "Maquina-07",
+        "titulo": "Lijadora Bosch",
+        "imagen": "./assets/img/herramientas/lijadora",
+        "categoria": {
+            "nombre": "Maquinas",
+            "id": "Maquinas"
+        },
+        "precio": 16000
+    },
+    {
+        "id": "Maquina-08",
+        "titulo": "Atornillador",
+        "imagen": "./assets/img/herramientas/atornillador",
+        "categoria": {
+            "nombre": "Maquinas",
+            "id": "Maquinas"
+        },
+        "precio": 19900
+    },
+
+
+
+
+    {
+        "id": "pintura-01",
+        "titulo": "Pintura 1L color: Rojo",
+        "imagen": "./assets/img/herramientas/pinturas",
+        "categoria": {
+            "nombre": "Pinturas",
+            "id": "pinturas"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "pintura-02",
+        "titulo": "Pintura 1L color: verde",
+        "imagen": "./assets/img/herramientas/pinturas",
+        "categoria": {
+            "nombre": "Pinturas",
+            "id": "pinturas"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "pintura-03",
+        "titulo": "Pintura 1L color: Morado",
+        "imagen": "./assets/img/herramientas/pinturas",
+        "categoria": {
+            "nombre": "Pinturas",
+            "id": "pinturas"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "pintura-04",
+        "titulo": "Pintura 1L color: Amarillo",
+        "imagen": "./assets/img/herramientas/pinturas",
+        "categoria": {
+            "nombre": "Pinturas",
+            "id": "pinturas"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "pintura-05",
+        "titulo": "Pintura 1L color: Azul",
+        "imagen": "./assets/img/herramientas/pinturas",
+        "categoria": {
+            "nombre": "Pinturas",
+            "id": "pinturas"
+        },
+        "precio": 4500
+    }
+]
